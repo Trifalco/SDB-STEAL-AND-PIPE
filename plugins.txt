@@ -1,0 +1,7 @@
+# Plugins activos en el tema SDB-STEAL-AND-PIPE
+
+advanced-custom-fields
+show-current-template
+wordpress-seo
+
+# Fecha de exportación: 2025-08-13
